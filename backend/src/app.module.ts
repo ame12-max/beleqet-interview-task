@@ -64,7 +64,7 @@ import { TelegramModule } from './modules/telegram/telegram.module';
 
     // ── Feature modules ────────────────────────────────────────────────────
     PrismaModule,
-    QueuesModule,
+    //QueuesModule,
     AuthModule,
     UsersModule,
     JobsModule,
