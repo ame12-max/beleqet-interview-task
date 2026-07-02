@@ -1,3 +1,4 @@
+// sucessfully configered docker and prisma, now we can create an admin user for our application. This script will create an admin user with the email '
 const { PrismaClient } = require('@prisma/client');
 const bcrypt = require('bcryptjs');
 
